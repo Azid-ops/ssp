@@ -1,0 +1,17 @@
+.workers
+{
+    text-align: center;
+    width:80%;
+    margin:auto;
+}
+.first
+{
+    display: inline-block;
+    margin-left: 2%;
+    margin-top: 3%;
+}
+img
+{
+    width:350px;
+    height:200px;
+}
